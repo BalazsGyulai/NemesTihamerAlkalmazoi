@@ -1,0 +1,39 @@
+nemzet	nemzet azonosítója	1924	1928	1932	1936	1948	1952	1956	1960	1964	1968	1972	1976	1980	1984	1988	1992	1994	1998	2002	2006	2010	2014
+Ausztria	AUT	–	1	2	4	4	3	4	4	4	4	3	5	5	5	4	4	4	5	5	4	4	6
+Bulgária	BUL	–	–	–	–	–	–	–	–	–	–	–	–	–	3	2	–	3	–	1	2	–	1
+Csehország	CZE	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	4	4	4	5	5	5
+Csehszlovákia	TCH	3	4	4	4	4	–	2	–	3	5	5	5	2	5	4	4	–	–	–	–	–	–
+Egyesült Államok	USA	3	3	4	4	4	4	4	4	4	5	4	6	6	5	6	4	6	5	5	5	4	7
+Egyesített Csapat	EUN	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	4	–	–	–	–	–	–
+Dél-Korea	KOR	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	4	4	5	3	5
+Észtország	EST	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	3	2	–	2
+Fehéroroszország	BLR	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	1	2	1	2	–	–
+Finnország	FIN	2	2	–	4	3	4	4	4	4	5	4	4	4	4	6	4	5	4	5	5	5	6
+Franciaország	FRA	4	3	–	–	4	3	3	2	–	4	4	–	2	1	2	4	4	2	4	–	4	4
+Görögország	GRE	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	1
+Grúzia	GEO	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	1	1	1	–	–	–
+Izland	ISL	–	–	–	–	1	1	–	1	–	–	–	–	–	–	–	–	–	–	–	–	–	–
+Japán	JPN	–	1	4	4	–	4	2	4	4	5	5	5	4	4	4	4	4	5	5	5	4	8
+Jugoszlávia	YUG	–	–	–	4	4	2	4	–	4	5	4	4	3	5	5	–	–	–	–	–	–	–
+Kanada	CAN	–	1	4	3	3	2	1	3	2	3	4	4	3	4	4	3	–	–	–	4	4	6
+Kazahsztán	KAZ	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	3	4	4	4	2	2
+Kína	CHN	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	4	–	–
+Kirgizisztán	KGZ	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	1	–	–	–
+Lengyelország	POL	1	4	3	3	4	4	4	1	5	4	4	5	3	2	2	1	1	5	5	5	5	5
+Magyarország	HUN	–	–	–	–	1	–	–	1	2	2	–	–	–	–	–	–	–	–	–	–	–	–
+Nagy-Britannia	GBR	–	–	–	–	–	–	–	–	–	–	–	–	–	–	1	–	–	–	1	–	–	–
+Egyesült Német Csapat	EUA	–	–	–	–	–	–	4	4	5	–	–	–	–	–	–	–	–	–	–	–	–	–
+Németország	GER	–	4	–	4	–	4	–	–	–	–	–	–	–	–	–	5	5	4	5	5	5	9
+NDK	GDR	–	–	–	–	–	–	–	–	–	4	5	4	6	5	2	–	–	–	–	–	–	–
+NSZK	FRG	–	–	–	–	–	–	–	–	–	4	3	2	3	4	5	–	–	–	–	–	–	–
+Norvégia	NOR	4	4	4	4	4	4	4	4	5	5	5	4	4	6	5	5	6	5	4	5	5	8
+Olaszország	ITA	2	3	3	2	3	–	4	4	3	1	1	4	1	3	2	3	4	1	1	4	3	5
+Oroszország	RUS	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	4	4	5	4	4	6
+Románia	ROU	–	–	–	1	–	–	1	–	–	–	–	–	–	–	–	1	–	–	–	–	–	1
+Spanyolország	ESP	–	–	–	–	–	–	–	–	–	–	–	–	–	3	1	–	–	–	–	–	–	–
+Svájc	SUI	4	4	3	3	4	4	2	1	3	1	4	4	4	3	4	4	2	4	4	4	2	3
+Svédország	SWE	4	4	3	4	3	4	4	4	4	5	2	2	1	–	4	5	5	–	–	–	–	–
+Szlovákia	SVK	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	2	1	–	1	1	–
+Szlovénia	SLO	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	5	6	5	4	4	5	8
+Szovjetunió	URS	–	–	–	–	–	–	3	4	5	4	5	4	4	3	2	–	–	–	–	–	–	–
+Ukrajna	UKR	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	–	1	3	1	1	3	–

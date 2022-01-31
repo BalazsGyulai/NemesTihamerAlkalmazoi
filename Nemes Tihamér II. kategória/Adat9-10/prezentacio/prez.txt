@@ -1,0 +1,9 @@
+Curling
+Szabályok
+A játékot két csapat játssza.
+Mindkét csapat nyolc-nyolc követ csúsztathat a jégpályán egy kijelölt kör alakú mezőbe. 
+Az a csapat nyer, amelynek kövei a játékrészek végén a legközelebb esnek a kijelölt kör középpontjához.
+
+Részlet egy mérkőzésből
+
+Forrás: https://flic.kr/p/7JpTnD (Készítette: Nick Zolotko) 

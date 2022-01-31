@@ -1,0 +1,29 @@
+Év	Esemény	Rendező	
+		Város	Ország
+1924	I. téli olimpiai játékok	Chamonix	Franciaország
+1928	II. téli olimpiai játékok	St. Moritz	Svájc
+1932	III. téli olimpiai játékok	Lake Placid	USA
+1936	IV. téli olimpiai játékok	Garmisch-Partenkirchen	Németország
+1940	V. téli olimpiai játékok	Garmisch-Partenkirchen	Németország
+1944	V. téli olimpiai játékok	Cortina d’Ampezzo	Olaszország
+1948	V. téli olimpiai játékok	St. Moritz	Svájc
+1952	VI. téli olimpiai játékok	Oslo	Norvégia
+1956	VII. téli olimpiai játékok	Cortina d’Ampezzo	Olaszország
+1960	VIII. téli olimpiai játékok	Squaw Valley	USA
+1964	IX. téli olimpiai játékok	Innsbruck	Ausztria
+1968	X. téli olimpiai játékok	Grenoble	Franciaország
+1972	XI. téli olimpiai játékok	Szapporo	Japán
+1976	XII. téli olimpiai játékok	Innsbruck	Ausztria
+1980	XIII. téli olimpiai játékok	Lake Placid	USA
+1984	XIV. téli olimpiai játékok	Szarajevó	Jugoszlávia
+1988	XV. téli olimpiai játékok	Calgary	Kanada
+1992	XVI. téli olimpiai játékok	Albertville	Franciaország
+1994	XVII. téli olimpiai játékok	Lillehammer	Norvégia
+1998	XVIII. téli olimpiai játékok	Nagano	Japán
+2002	XIX. téli olimpiai játékok	Salt Lake City	USA
+2006	XX. téli olimpiai játékok	Torino	Olaszország
+2010	XXI. téli olimpiai játékok	Vancouver	Kanada
+2014	XXII. téli olimpiai játékok	Szocsi	Oroszország
+2018	XXIII. téli olimpiai játékok	Phjongcshang	Dél-Korea
+2022	XXIV. téli olimpiai játékok	Peking	Kína
+2026	XXV. téli olimpiai játékok	Milánó-Cortina	Olaszország

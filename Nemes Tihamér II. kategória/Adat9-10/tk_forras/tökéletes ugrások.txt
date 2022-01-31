@@ -1,0 +1,12 @@
+dátum	versenyző		pálya		verseny	helyezés	ugrás nagysága		
+	név	ország	hely	helyszín			méter	yard	láb
+1976.03.07	Anton Innauer	Ausztria	Heini-Klopfer-Skiflugschanze K175	Oberstdorf	KOP Nemzetközi Sírepülési Hét	1.	176	192,5	577
+1998.01.24	Kazuyoshi Funaki	Japán	Heini-Klopfer-Skiflugschanze K185	Oberstdorf	világkupa/sírepülő világbajnokság	2.	187,5	205	615
+1998.01.25	Kazuyoshi Funaki	Japán	Heini-Klopfer-Skiflugschanze K185	Oberstdorf	világkupa/sírepülő világbajnokság	1.	205,5	224,7	674
+1998.02.15	Kazuyoshi Funaki	Japán	Hakuba K120	Nagano	olimpiai játékok	1.	132,5	149,9	438
+1999.01.17	Kazuyoshi Funaki	Japán	Wielka Krokiew K116	Zakopane	világbajnokság	2.	119	130,1	390
+2003.02.08	Sven Hannawald	Németország	Mühlenkopfschanze K130	Willingen	világbajnokság	1.	142	155,3	466
+2003.02.08	Hideharu Miyahira	Japán	Mühlenkopfschanze K130	Willingen	világbajnokság	6.	135,5	148,2	445
+2009.01.06	Wolfgang Loitzl	Ausztria	Paul-Ausserleitner-Schanze HS140 (éjszaka)	Bischofshofen	négysánc-verseny	1.	142,5	155,8	468
+2015.03.20	Peter Prevc	Szlovénia	Letalnica bratov Gorišek HS225	Planica	világbajnokság	1.	233	254,8	764
+2015.03.22	Jurij Tepeš	Szlovénia	Letalnica bratov Gorišek HS225	Planica	világbajnokság	1.	244	266,8	801
